@@ -18,7 +18,7 @@
         </connector>
     </assignments>
     <assignments>
-        <name>Update_Current_user12</name>
+        <name>Update_Current_user</name>
         <label>Update Current user</label>
         <locationX>264</locationX>
         <locationY>638</locationY>
